@@ -1,7 +1,7 @@
 # Store-To-Door
 This repository showcases my Data Analytic skills, specifically in the business sector (Business Analysis).
 
-This is an exciting project I started to put my new taught skills from my time during my studies (primarily Data Analysis). I focus on particular types sales within the store I work at.
+This is an exciting project I started to put my new taught skills from my time during my studies (primarily Data Analysis). I focus on particular types of sales within the store I work at.
 
 Within this repository I have placed 3 documents relating to my Project Store-To-Door:
 
